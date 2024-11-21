@@ -1,0 +1,14 @@
+.one {
+    font-family: 'Times New Roman', Courier, monospace;
+    color: blue
+}
+
+.description {
+    font-size: 8px;
+    color:black;
+    
+}
+body {
+    background-color: lightgray;
+    border: 2px;
+}
